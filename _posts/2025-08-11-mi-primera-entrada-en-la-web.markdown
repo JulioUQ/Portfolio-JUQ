@@ -4,9 +4,7 @@ title: Porfolio Julio Úbeda Quesada
 date: 2025-08-11 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 img: post-6.jpg
-tags:
-  - Blog
-  - Meditation
+tags:[Blog, MProfile] 
 author: Julio Úbeda Quesada
 ---
 ¡Hola a todos!  

@@ -1,38 +1,45 @@
-# Adam Blog is a minimal clear theme for Jekyll
+# 💼 Portfolio de Julio Ubeda Quesada
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
+Bienvenido/a a mi portfolio. Aquí encontrarás una selección de mis proyectos, experiencia y formas de contacto.
 
-## Demo
+---
 
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
+## 🧑‍💻 Sobre mí
+Ingeniero de datos con experiencia en Python, SQL, análisis estadístico y desarrollo de dashboards. Apasionado por la innovación y la optimización de procesos.
 
-The main page would look like this:
+---
 
-![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
+## 🚀 Proyectos Destacados
 
-The post page would look like this:
+### 1. **Análisis de Capturas Pesqueras**
+- **Tecnologías:** Python, Pandas, Matplotlib, Folium
+- **Descripción:** Sistema de detección de anomalías espacio-temporales en capturas pesqueras.
+- **Repositorio:** [Ver en GitHub](https://github.com/usuario/proyecto1)
 
-![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
+### 2. **Dashboard de Consumo Anual**
+- **Tecnologías:** Dash, SQL Server
+- **Descripción:** Aplicación web para visualizar consumo anual por zonas y categorías.
+- **Repositorio:** [Ver en GitHub](https://github.com/usuario/proyecto2)
 
-## Features
+---
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [MailChimp](https://mailchimp.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+## 🛠 Tecnologías y Herramientas
+- **Lenguajes:** Python, SQL, R
+- **Bases de datos:** PostgreSQL, SQL Server, MongoDB
+- **Otros:** Git, GitHub Actions, Docker, Dash, Power BI
 
-## Installation:
+---
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+## 📚 Formación
+- Curso de PostGIS y PostgreSQL — Imasgal (2025)
+- Curso de Git y GitHub — Empresa (2025)
+- Estadística avanzada aplicada al deporte (UOC)
 
-## License
+---
 
-GNU General Public License v3.0
+## 📫 Contacto
+- **Email:** julioubedaquesada@gmail.com  
+- **LinkedIn:** [linkedin.com/in/julioubedaquesada](https://linkedin.com/in/julioubedaquesada)  
+- **GitHub:** [github.com/JulioUQ](https://github.com/JulioUQ)  
 
-## Premium Themes by Artem
-
-| [![Coderon Jekyll Theme](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/coderon-preview.png?raw=true)](https://jekyllthemes.io/theme/coderon-blog-jekyll-theme) | [![Renva Portfolio Jekyll Theme](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/renva-preview.png?raw=true)](https://jekyllthemes.io/theme/renva-portfolio-jekyll-theme) | [![Nomod](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/nomod-preview.png?raw=true)](https://jekyllthemes.io/theme/nomod-blog-jekyll-theme) |
-|:---:|:---:|:---:|
-| **Coderon** | **Renva** | **Nomod** |
+---
